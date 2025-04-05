@@ -1,12 +1,5 @@
 # Detecting SMS Spam Using Natural Language Processing
 
-## Table of Contents
-  * [Demo](#demo)
-  * [Introduction](#introduction)
-  * [Dataset](#dataset)
-  * [Technologies Used](#technologies-used)
-  * [Accuracy](#accuracy)
-
 ## Introduction
 This is a Spam Classifier web application built using Flask. <br>
 The app takes a message/email as an input and predict the message/email as spam or not spam (ham).
